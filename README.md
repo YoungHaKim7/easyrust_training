@@ -7,6 +7,14 @@
 
 ```
 
+- 내가 원하는 색깔 256 컬러에서 고르자 ㅎㅎ
+
+https://www.ditig.com/256-colors-cheat-sheet
+
+<br>
+
+<hr>
+
 # Vim Command
 
 ```
