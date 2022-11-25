@@ -57,6 +57,46 @@ https://rust-analyzer.github.io/manual.html#vimneovim
 
 <br>
 
+# Vim 창 나누기
+
+```
+// 창 좌우로 나누기
+:vs
+
+
+// 창 상하로 나누기
+:sp
+
+
+// 가운데 선 아래(Down)으로 이동 (:sp에서 주로 사용)
+:ObviousResizeDown
+
+// 가운데 선 위(Up)로 이동 (:sp에서 주로 사용)
+:ObviousResizeUp
+
+// 가운데 선 오른쪽(Right)으로 이동(:vs에서 주로 사용)
+:ObviousResizeRight
+
+// 가운데 선 왼쪽(Left)으로 이동(:vs에서 주로 사용)
+:ObviousResizeLeft
+```
+
+- Plug in 설치 없이 사용 가능
+
+```
+// Plug In 설치 없이 가능한 명령어
+// 위, 아래 크기 조절
+:resize +10
+
+// 좌, 우 조절
+:vertical resize +10
+
+```
+
+<hr>
+
+<br>
+
 <h1>Updating</h1>
 2021-12-10 : Rust 기초 강의 시작<br>
 
