@@ -55,7 +55,7 @@ set t_Co=256
 colorscheme jellybeans
 
 " for taglist
-nmap <F8> :Tagbar<CR>
+nmap <F8> :Vista<CR>
 
 " for indent guide
 let g:indentguides_spacechar = '┆'
