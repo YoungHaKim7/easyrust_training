@@ -38,3 +38,6 @@ fn main() {
     let npc_1 = Character::default();
     println!("{npc_1:?}")
 }
+
+// result:
+// Character { name: "Billy", age: 15, height: 170, weight: 70, lifestyte: Alive }
