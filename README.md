@@ -20,7 +20,7 @@
 
 https://www.ditig.com/256-colors-cheat-sheet
 
-# Vim (:CocCofig) setting.JSON
+# Vim (:CocConfig) setting.JSON
 
 ```
 {
