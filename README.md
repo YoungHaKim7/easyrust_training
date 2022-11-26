@@ -8,6 +8,11 @@
 5 밝다
 52 어둡다
 
+:hi 먹통일때 임시방편
+:colorscheme jellybeans 기본 스킨
+:colorscheme slate 후보군1
+:colorscheme murphy 그나마 낫다?
+:colorscheme habamax 전제적 회색 느낌
 
 ```
 
@@ -15,7 +20,47 @@
 
 https://www.ditig.com/256-colors-cheat-sheet
 
+# Vim (:CocCofig) setting.JSON
+
+```
+{
+//  "workbench.colorCustomizations": {
+//    // Name of the theme you are currently using
+//    "[Default Dark+]": {
+//      "editorInlayHint.foreground": "#868686f0",
+//      "editorInlayHint.background": "#f700d6",
+//
+//      // Overrides for specific kinds of inlay hints
+//      "editorInlayHint.typeForeground": "#f700d6",
+//      "editorInlayHint.parameterForeground": "#fdb6fdf0",
+//    }
+  //}
+  "workbench.colorCustomizations": {
+      "[Default Dark+]": {
+          "editorInlayHint.foreground": "#868686f0",
+          "editorInlayHint.background": "#f700d6",
+      "editorInlayHint.typeForeground": "#f700d6",
+      "editorInlayHint.parameterForeground": "#fdb6fdf0",
+      }
+  },
+  "workspace.workspaceFolderFallbackCwd": true",
+  "rust-analyzer.semanticHighlighting.operator.specialization.enable": true,
+  "rust-analyzer.inlayHints.typeHints.enable": true,
+  "rust-analyzer.hover.documentation.enable": true,
+
+  // rust-analyzer setting~
+  "rust-analyzer.inlayHints.enable": true,
+  // "rust-analyzer.cargo.loadOutDirsFromCheck": true,
+  "rust-analyzer.procMacro.enable": true,
+  "rust-analyzer.lens.enable": true,
+  "rust-analyzer.lens.implementations.enable": true,
+}
+
+```
+
 <br>
+
+<hr>
 
 ## vim documentation scroll(Vim key map)
 
