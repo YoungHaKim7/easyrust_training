@@ -195,6 +195,7 @@ cargo install --locked bacon
 
 &
 bacon
+
 ```
 
 https://dystroy.org/bacon/
@@ -202,6 +203,30 @@ https://dystroy.org/bacon/
 <br>
 
 <br>
+
+# NERDtree 단축키 
+```
+I - 숨긴 파일 확인
+R - Reflash
+m - 파일 추가 삭제 가능 
+```
+
+# Vim 설치된 플러그인 목록 확인
+
+~/.config/coc/extensions/package.json
+
+<br>
+
+:CocInstall 하면 위 폴더 JSON 에서 버젼 관리를 한다. ㅋ 
+
+<br>
+
+https://johngrib.github.io/wiki/vim/coc-nvim/
+
+<br>
+
+
+
 
 <h1>Updating</h1>
 2021-12-10 : Rust 기초 강의 시작<br>

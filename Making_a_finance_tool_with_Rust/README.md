@@ -1,25 +1,25 @@
 Todo:
 
-stock symbols
-company profile 2
-market news
-company news
-peers
-basic financials
-Insider transactions?
-Insider sentiment
-Financials as reported
-SEC fillins
-IPO calendar
-EPS Surprises
-Earnings calendar
-Stock quote
-Candles?
-Forex exchanges
-forex symbols
-USPTO patents
-Visa application
-Senate lobbying
-USA spending
-COVID-19 by state
-Country list
+stock symbols<br>
+company profile 2<br>
+market news<br>
+company news<br>
+peers<br>
+basic financials<br>
+Insider transactions?<br>
+Insider sentiment<br>
+Financials as reported<br>
+SEC fillins<br>
+IPO calendar<br>
+EPS Surprises<br>
+Earnings calendar<br>
+Stock quote<br>
+Candles?<br>
+Forex exchanges<br>
+forex symbols<br>
+USPTO patents<br>
+Visa application<br>
+Senate lobbying<br>
+USA spending<br>
+COVID-19 by state<br>
+Country list<br>
