@@ -1,3 +1,16 @@
+# Vim Coc 관리하기 
+
+- 서버가 잘 돌아가는 체크하기 
+
+```
+:CocList services
+
+```
+
+<br>
+
+<hr>
+
 # Vim Setting (type 빨강색으로 강조하기 칙칙한 검은색 너무 싫다.)
 
 -vim 에서
