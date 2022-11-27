@@ -9,6 +9,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim' "Plug-in Management
 
 Plugin 'nanotech/jellybeans.vim' " vim thema skin
+Plugin 'morhetz/gruvbox' " vim thema skin2
 
 Plugin 'neoclide/coc.nvim', {'branch': 'release'} "CocInstall
 
@@ -21,7 +22,8 @@ Plugin 'blueyed/vim-diminactive' "to dim inactive windows
 Plugin 'talek/obvious-resize' "Obvious Resize_Windows
 
 Plugin 'junegunn/vim-easy-align' "Vim alignment plugin.
-Plugin 'nathanaelkane/vim-indent-guides' "visually displaying indent levels in Vim
+" Plugin 'nathanaelkane/vim-indent-guides' "visually displaying indent levels in Vim
+Plugin 'Yggdroot/indentLine'
 Plugin 'townk/vim-autoclose'  " automatic closing of parentheses
 Plugin 'luochen1990/rainbow' "colorful brackets.
 
@@ -46,7 +48,7 @@ Plugin 'autozimu/LanguageClient-neovim', {
 call vundle#end()
 
 " rust InlayHint color setting
-hi CocInlayHint ctermbg=125
+" hi CocInlayHint ctermbg=125
 
 
 " basic settings~
@@ -58,12 +60,13 @@ colorscheme jellybeans
 " for Vista-taglist
 nmap <F8> :Vista<CR>
 
-" for indent guide
-let g:indentguides_spacechar = '┆'
-let g:indentguides_tabchar = '|'
-let g:indent_guides_enable_on_vim_startup = 1
-let g:indent_guides_start_level= 2
-let g:indent_guides_guide_size= 1
+"  "  " for indent guide
+" let g:indentguides_spacechar = '|'
+" let g:indentguides_tabchar = '┆'
+" let g:indentguides_tabchar = '¦'
+" let g:indent_guides_enable_on_vim_startup = 1
+" let g:indent_guides_start_level= 1
+" let g:indent_guides_guide_size= 1
 
 " for vim-airline
 let g:airline#extensions#tabline#enabled = 1 " turn on buffer list
@@ -188,6 +191,7 @@ inoremap jk <esc>
 syntax enable
 filetype indent on
 highlight Comment term=bold cterm=bold ctermfg=4
+" highlight CocInlayHint ctermbg=5
 
 
 set tabstop=4
@@ -209,3 +213,5 @@ packadd! vimspector
 
 "Clear all registers!
 command! WipeReg for i in range(34,122) | silent! call setreg(nr2char(i), []) | endfor
+
+
