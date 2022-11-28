@@ -60,6 +60,8 @@ colorscheme jellybeans
 " for Vista-taglist
 nmap <F8> :Vista<CR>
 
+" https://github.com/Yggdroot/indentLine
+" let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 "  "  " for indent guide
 " let g:indentguides_spacechar = '|'
 " let g:indentguides_tabchar = '┆'
