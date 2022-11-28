@@ -1,1 +1,0 @@
-/Users/globalyoung/Documents/Project/Github/rust_project/testeasyrust/ebook_easy_rust/21_Collection_types/array3/target/debug/array3: /Users/globalyoung/Documents/Project/Github/rust_project/testeasyrust/ebook_easy_rust/21_Collection_types/array3/src/main.rs
