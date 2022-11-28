@@ -206,6 +206,17 @@ https://rust-analyzer.github.io/manual.html#vimneovim
 
 <hr>
 
+# TrubleToggle 과 비슷한 기능
+
+```
+:CocDiagnostics
+
+```
+
+<br>
+
+<hr>
+
 # Rust Projetct 할때 실시간 체크  cargo watch 같은거 
 
 ```
