@@ -7,6 +7,16 @@
 
 ```
 
+## Vim Coc 필요없는 서버 지우기 중복되는거
+
+<br>
+
+```
+// Ada 서버 지우는 방법
+:CocUninstall coc-als
+
+```
+
 <br>
 
 <hr>
