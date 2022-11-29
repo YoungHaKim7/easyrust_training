@@ -1,3 +1,18 @@
+# Rust Doc std(standard Library DOC)
+
+https://doc.rust-lang.org/std/
+
+<br>
+
+##  DOCS.RS(rust 기타 crate문서들)
+
+https://docs.rs/
+
+<br>
+
+<hr>
+
+
 # Vim Coc 관리하기 
 
 - 서버가 잘 돌아가는 체크하기 
