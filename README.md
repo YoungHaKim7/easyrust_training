@@ -12,6 +12,26 @@ https://docs.rs/
 
 <hr>
 
+# LunarVim InLayHint _____Comment Color
+
+```
+// 어두운 빨간색
+: hi Comment guifg=#c90076
+
+
+// 밝은 분홍색 느낌
+: hi Comment guifg=#ff439f
+
+```
+
+- color-hex
+
+https://www.color-hex.com/color/ff439f
+
+<br>
+
+<hr>
+
 
 # Vim Coc 관리하기 
 
