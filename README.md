@@ -30,6 +30,21 @@ https://www.color-hex.com/color/ff439f
 
 <br>
 
+## LunarVim Hover 
+
+Control + Space
+
+<br>
+
+```
+Shift + K 하면 이상한 문서가 나옴
+
+Control + Space 해야 내가 생각하는 Hover 가 나온다. 
+
+rust-tools.lua 파일 참조 
+
+```
+
 <hr>
 
 
