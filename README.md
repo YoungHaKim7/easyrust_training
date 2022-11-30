@@ -16,11 +16,11 @@ https://docs.rs/
 
 ```
 // 어두운 빨간색
-: hi Comment guifg=#c90076
+: hi Comment guifg=#cfe2f3 guibg=#c90076
 
 
 // 밝은 분홍색 느낌
-: hi Comment guifg=#ff439f
+: hi Comment guifg=#cfe2f3 guibg=#ff439f
 
 ```
 
