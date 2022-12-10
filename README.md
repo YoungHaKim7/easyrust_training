@@ -97,17 +97,6 @@ https://www.ditig.com/256-colors-cheat-sheet
 
 ```
 {
-//  "workbench.colorCustomizations": {
-//    // Name of the theme you are currently using
-//    "[Default Dark+]": {
-//      "editorInlayHint.foreground": "#868686f0",
-//      "editorInlayHint.background": "#f700d6",
-//
-//      // Overrides for specific kinds of inlay hints
-//      "editorInlayHint.typeForeground": "#f700d6",
-//      "editorInlayHint.parameterForeground": "#fdb6fdf0",
-//    }
-  //}
   "workbench.colorCustomizations": {
       "[Default Dark+]": {
           "editorInlayHint.foreground": "#868686f0",
