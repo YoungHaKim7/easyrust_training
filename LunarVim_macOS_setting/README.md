@@ -1,3 +1,11 @@
+# 한글러스트Rust강의_049⭐️Rust개발환경LunarVim세팅하기_LunarVim_macOS_M1_pro #lunarvim #CocInlayHint #rustinlayhint
+
+https://youtu.be/c8FX89jf4To
+
+<br>
+
+<hr>
+
 # LunarVim "jk" key setting
 
 https://github.com/LunarVim/LunarVim/issues/2731
