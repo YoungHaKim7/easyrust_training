@@ -1,4 +1,11 @@
-  # Result: 
+#  프로그래밍 언어 러스트를 배웁시다! 139 Easy Rust in Korean: Errors
+
+https://youtu.be/hrPO-J_texs
+
+<br>
+
+# Result: 
+
   ```
   Compiling errors v0.1.0 (D:\young_project\rust_lang\testeasyrust\04KorRustEasyRust\139Errors\errors)
 error[E0277]: `?` couldn't convert the error to `ParseIntError`
