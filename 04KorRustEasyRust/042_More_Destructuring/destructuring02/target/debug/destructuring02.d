@@ -1,1 +1,0 @@
-/Users/globalyoung/Documents/test/test/rust/testeasyrust/04KorRustEasyRust/042_More_Destructuring/destructuring02/target/debug/destructuring02: /Users/globalyoung/Documents/test/test/rust/testeasyrust/04KorRustEasyRust/042_More_Destructuring/destructuring02/src/main.rs
