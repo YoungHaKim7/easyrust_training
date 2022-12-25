@@ -7,17 +7,23 @@ struct Person {
     happiness: bool,
 }
 
-
 fn main() {
     let papa_doc = Person {
         name: "Papa Doc".to_string(),
         real_name: "Clarence".to_string(),
         height: 170,
-        happiness: false
+        happiness: false,
     };
 
-    let Person { name, real_name, height, happiness} = papa_doc;
+    let Person {
+        name,
+        real_name,
+        height,
+        happiness,
+    } = papa_doc;
 
-    println!("They call hime {} but his real name is {}. He is {} cm tall and is he happy? {}",
-            name, real_name, height, happiness);
+    println!(
+        "They call hime {} but his real name is {}. He is {} cm tall and is he happy? {}",
+        name, real_name, height, happiness
+    );
 }
