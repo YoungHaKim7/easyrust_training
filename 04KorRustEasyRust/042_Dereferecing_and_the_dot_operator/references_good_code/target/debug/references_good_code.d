@@ -1,0 +1,1 @@
+/Users/globalyoung/Documents/test/test/rust/testeasyrust/04KorRustEasyRust/042_Dereferecing_and_the_dot_operator/references_good_code/target/debug/references_good_code: /Users/globalyoung/Documents/test/test/rust/testeasyrust/04KorRustEasyRust/042_Dereferecing_and_the_dot_operator/references_good_code/src/main.rs
