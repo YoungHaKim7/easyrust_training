@@ -2,3 +2,11 @@
 
 https://youtu.be/znCUAqyfbe4
 
+<br>
+
+<hr>
+
+# The Dot Operator
+
+https://doc.rust-lang.org/nomicon/dot-operator.html
+
