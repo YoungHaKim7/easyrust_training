@@ -1,0 +1,1 @@
+/Users/globalyoung/Documents/test/test/test/testeasyrust/04KorRustEasyRust/044_Generics/generics02/target/debug/generics02: /Users/globalyoung/Documents/test/test/test/testeasyrust/04KorRustEasyRust/044_Generics/generics02/src/main.rs
