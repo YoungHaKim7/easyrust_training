@@ -3,3 +3,7 @@
 https://youtu.be/o4Hqyfjxtco
 
 
+# docs.rs/std
+
+https://doc.rust-lang.org/std/string/struct.String.html
+
