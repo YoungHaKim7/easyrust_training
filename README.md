@@ -100,10 +100,14 @@ https://www.ditig.com/256-colors-cheat-sheet
 }
 ```
 <br>
+
 <hr>
+
 ## vim documentation scroll(Vim key map)
+
 - CTRL-F (PageDown)
 - CTRL-D (PageUp)
+
 ```
 							*CTRL-E*
 CTRL-E			Scroll window [count] lines downwards in the buffer.
@@ -127,81 +131,131 @@ CTRL-F			Scroll window [count] pages Forwards (downwards) in
 			the buffer.  See also 'startofline' option.
 			When there is only one window the 'window' option
 			might be used.
+
 ```
 <br>
+
 https://vimdoc.sourceforge.net/htmldoc/scroll.html#scroll-down
+
 <hr>
+
+<br>
+
 # Vim Command
+
 ```
 :CocCommand
+
 // rust-analyzer 다시 시작
 FUZZY > rust-analyzer.reload
 // rust-analyzer upgrade
 FUZZY > rust-analyzer.upgrade
+
 :CocOpenLog
 error log 보기
+
 :CocConfig
 VSCode Setting.JSON 과 비슷
+
 ```
 <br>
+
 # Vim CocInstall (rust-analyzer)
+
 https://github.com/fannheyward/coc-rust-analyzer#highlight-group
+
 ```
 :CocInstall coc-rust-analyzer
 remove rust-analyzer config from coc-settings.json if you've set
 NOTE: For Apple Silicon users, you shouldn't use Node.js v15, checkout #975 for more.
+
 // 이렇게 하면 coc-settings.JSON 에 들어간다.
 :CocConfig
+
 ```
+
 https://rust-analyzer.github.io/manual.html#vimneovim
+
 <br>
+
 # Vim 창 나누기
+
 ```
+
 // 창 좌우로 나누기
 :vs
+
 // 창 상하로 나누기
 :sp
+
 // 가운데 선 아래(Down)으로 이동 (:sp에서 주로 사용)
 :ObviousResizeDown
+
 // 가운데 선 위(Up)로 이동 (:sp에서 주로 사용)
 :ObviousResizeUp
+
 // 가운데 선 오른쪽(Right)으로 이동(:vs에서 주로 사용)
 :ObviousResizeRight
+
 // 가운데 선 왼쪽(Left)으로 이동(:vs에서 주로 사용)
 :ObviousResizeLeft
+
 ```
 - Plug in 설치 없이 사용 가능
+
 ```
 // Plug In 설치 없이 가능한 명령어
+
 // 위, 아래 크기 조절
 :resize +10
+
 // 좌, 우 조절
 :vertical resize +10
+
 ```
 <hr>
+
 # Rust Projetct 할때 실시간 체크  cargo watch 같은거 
+
 ```
 bacon
+
 ```
 Installation
+
 ```
 cargo install --locked bacon
 &
 bacon
+
 ```
+
+
 https://dystroy.org/bacon/
+
 <br>
+
 <br>
+
 # NERDtree 단축키 
+
 ```
 I - 숨긴 파일 확인
 R - Reflash
 m - 파일 추가 삭제 가능 
 ```
+
 # Vim 설치된 플러그인 목록 확인
+
+
 ~/.config/coc/extensions/package.json
+
 <br>
+
 :CocInstall 하면 위 폴더 JSON 에서 버젼 관리를 한다. ㅋ 
+
 <br>
+
 https://johngrib.github.io/wiki/vim/coc-nvim/
+
 <br>
