@@ -23,10 +23,11 @@
 - https://dhghomon.github.io/easy_rust/
 
 - 영상 모아보기
-- KR한국어버젼 https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE
+  - KR한국어버젼
+    - https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE
 
-- Eng.영어버젼 Easy Rust / Rust in a Month of Lunches: bite-sized Rust tutorials
-  - https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&si=y29g1LlLc4-M5OAf
+  - Eng.영어버젼 Easy Rust / Rust in a Month of Lunches: bite-sized Rust tutorials
+    - https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk&si=y29g1LlLc4-M5OAf
  
 <hr>
 
