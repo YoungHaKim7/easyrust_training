@@ -4,7 +4,7 @@
 
 <hr>
 
-# <em><strong>유료버젼</em></strong> 🖥💰 Easy Rust Korean / Rust in a Month of Lunches
+# <em><strong>유료버젼</em></strong> 🖥💰 Easy Rust Korean / Rust in a Month of Lunches<a href="https://github.com/YoungHaKim7/easyrust_training#rust-gitignore-macos-linuxos">↑ Top ↑🔝</a>
 
 - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
 
