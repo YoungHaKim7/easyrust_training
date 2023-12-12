@@ -1,4 +1,4 @@
-# <em><strong>유료버젼</em></strong>Easy Rust Korean / Rust in a Month of Lunches 한국어판
+# <em><strong>유료버젼</em></strong> 🖥💰 Easy Rust Korean / Rust in a Month of Lunches 한국어판
 
 - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
 
