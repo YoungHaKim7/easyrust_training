@@ -5,14 +5,6 @@
 
 <hr>
 
-# gitignore(Rust)
-
-- https://github.com/github/gitignore/blob/main/Rust.gitignore
-
-- https://github.com/github/gitignore
-
-
-
 <hr>
 
 <h1>Updating</h1>
@@ -300,6 +292,13 @@ https://johngrib.github.io/wiki/vim/coc-nvim/
 
 
 # Rust ```.gitignore``` (macOS, LinuxOS)
+
+- gitignore(Rust)
+
+- https://github.com/github/gitignore/blob/main/Rust.gitignore
+
+- https://github.com/github/gitignore
+
 
 ```bash
 echo "# Result\xa\xa\x60\x60\x60\xa\xa\x60\x60\x60" >> README.md &&
