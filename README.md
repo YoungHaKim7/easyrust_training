@@ -55,11 +55,11 @@
 
 <br>
 
-# Rust PlayGround<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Rust PlayGround<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 [https://play.rust-lang.org/](https://play.rust-lang.org/)
 
-# Vim Coc 관리하기 <a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Vim Coc 관리하기 <a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 - 서버가 잘 돌아가는 체크하기 
 
@@ -68,7 +68,7 @@
 
 ```
 
-## Vim Coc 필요없는 서버 지우기 중복되는거<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+## Vim Coc 필요없는 서버 지우기 중복되는거<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 <br>
@@ -100,7 +100,7 @@
 - 내가 원하는 색깔 256 컬러에서 고르자 ㅎㅎ
 https://www.ditig.com/256-colors-cheat-sheet
 
-# Vim (:CocConfig) setting.JSON<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Vim (:CocConfig) setting.JSON<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 ```
 {
@@ -139,7 +139,7 @@ https://www.ditig.com/256-colors-cheat-sheet
 
 <hr>
 
-## vim documentation scroll(Vim key map)<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+## vim documentation scroll(Vim key map)<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 - CTRL-F (PageDown)
@@ -178,7 +178,7 @@ https://vimdoc.sourceforge.net/htmldoc/scroll.html#scroll-down
 
 <br>
 
-# Vim Command<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Vim Command<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 ```
@@ -198,7 +198,7 @@ VSCode Setting.JSON 과 비슷
 ```
 <br>
 
-# Vim CocInstall (rust-analyzer)<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Vim CocInstall (rust-analyzer)<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 https://github.com/fannheyward/coc-rust-analyzer#highlight-group
@@ -217,7 +217,7 @@ https://rust-analyzer.github.io/manual.html#vimneovim
 
 <br>
 
-# Vim 창 나누기<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Vim 창 나누기<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 ```
@@ -277,7 +277,7 @@ https://dystroy.org/bacon/
 
 <br>
 
-# NERDtree 단축키 <a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# NERDtree 단축키 <a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 ```
@@ -286,7 +286,7 @@ R - Reflash
 m - 파일 추가 삭제 가능 
 ```
 
-# Vim 설치된 플러그인 목록 확인<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Vim 설치된 플러그인 목록 확인<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 
@@ -305,7 +305,7 @@ https://johngrib.github.io/wiki/vim/coc-nvim/
 <hr>
 
 
-# Rust ```.gitignore``` (macOS, LinuxOS)<a href="https://github.com/YoungHaKim7/easyrust_training#link"><↑ Top ↑🔝></a>
+# Rust ```.gitignore``` (macOS, LinuxOS)<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 
 - gitignore(Rust)
