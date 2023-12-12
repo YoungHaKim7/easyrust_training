@@ -1,6 +1,6 @@
 # Link
 
-<a href="https://github.com/YoungHaKim7/easyrust_training#rust-gitignore-macos-linuxos"> echo로 .gitignore 넣기 (Rust)</a>
+<a href="https://github.com/YoungHaKim7/easyrust_training#rust-gitignore-macos-linuxos-top-"> echo로 .gitignore 넣기 (Rust)</a>
 
 <hr>
 
