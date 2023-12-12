@@ -1,3 +1,10 @@
+# <em><strong>유료버젼</em></strong>Easy Rust Korean / Rust in a Month of Lunches 한국어판
+
+- https://www.manning.com/books/learn-rust-in-a-month-of-lunches
+
+
+<hr>
+
 <h1>Updating</h1>
 
 2021-12-10 : Rust 기초 강의 시작<br>
@@ -14,6 +21,8 @@
 - Easy Rust eBook
 
 - https://dhghomon.github.io/easy_rust/
+
+- 영상 모아보기 https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE
 
 <hr>
 
