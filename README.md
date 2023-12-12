@@ -5,6 +5,16 @@
 
 <hr>
 
+# gitignore(Rust)
+
+- https://github.com/github/gitignore/blob/main/Rust.gitignore
+
+- https://github.com/github/gitignore
+
+
+
+<hr>
+
 <h1>Updating</h1>
 
 2021-12-10 : Rust 기초 강의 시작<br>
