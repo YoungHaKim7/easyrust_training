@@ -2,9 +2,13 @@ use std::f64::consts::PI;
 
 use ndarray::{array, Array, Array1, ArrayBase, Dim, OwnedRepr, ShapeError};
 
+// fn from_shape02<D>() -> Result<ArrayBase<OwnedRepr<f64>, D>, ShapeError> {
+//     let _ = Array::from_shape_vec((3, 3), Array1::range(0., 9., 1.).to_vec()).expect("failed");
+//     Ok((ArrayBase<OwnedRepr && OwnedRepr<f64>, D>))
+// }
 fn from_shape02<D>() -> Result<ArrayBase<OwnedRepr<f64>, D>, ShapeError> {
     let _ = Array::from_shape_vec((3, 3), Array1::range(0., 9., 1.).to_vec()).expect("failed");
-    Ok((ArrayBase<OwnedRepr && OwnedRepr<f64>, D>))
+    Ok(ArrayBase<OwnedRepr && OwnedRepr<f64>, D>()) // Change here
 }
 
 // fn from_shape02<D>() -> Result<ArrayBase<OwnedRepr<f64>, D>, ShapeError>
