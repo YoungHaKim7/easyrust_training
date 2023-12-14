@@ -1,4 +1,5 @@
 fn main() {
+    //             [[[i32; Z]; Y]; X]
     let mut array: [[[i32; 3]; 3]; 3] = Default::default();
 
     for x in 0..3 {
