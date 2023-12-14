@@ -11,10 +11,14 @@ fn main() {
     }
 
     println!("array : {array:?}");
+    println!();
     array[0][0][1] = 12;
     println!("array : {array:?}");
+    println!();
     array[1][0][0] = 21;
     println!("array : {array:?}");
+    println!();
     array[2][0][0] = 31;
     println!("array : {array:?}");
+    println!();
 }
