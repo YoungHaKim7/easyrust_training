@@ -13,4 +13,4 @@ https://github.com/rust-ndarray/ndarray/blob/master/README-quick-start.md
 
 # Result 타입 따로 빼서 만들어 주기
 
-- https://github.com/YoungHaKim7/easyrust_training/commit/b68e4c5ee202252228c66c3bfcd81548fcd0b22a
+-
