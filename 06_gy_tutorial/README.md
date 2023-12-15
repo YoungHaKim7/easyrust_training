@@ -1,3 +1,9 @@
+# Rust 유져 커뮤티니 굿 좋다.
+
+https://users.rust-lang.org/
+
+<hr>
+
 # Creating two dimensional arrays in Rust
 
 https://stackoverflow.com/questions/13212212/creating-two-dimensional-arrays-in-rust
