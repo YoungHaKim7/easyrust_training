@@ -1,3 +1,9 @@
+<p align="center">
+	<img width=80px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" />
+</p>
+
+<hr>
+
 # Link
 
 <a href="https://github.com/YoungHaKim7/easyrust_training#rust-gitignore-macos-linuxos-top-"> echo로 .gitignore 넣기 (Rust)</a>
