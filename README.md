@@ -61,9 +61,27 @@
 
 <br>
 
+<hr>
+
 # Rust PlayGround<a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
 [https://play.rust-lang.org/](https://play.rust-lang.org/)
+
+
+# Assembly 확인하기(https://godbolt.org/)
+
+```
+-C opt-level=3 --target=i686-unknown-linux-gnu
+
+or
+
+// --target은 Override에서 설정 가능
+-C opt-level=3
+```
+
+- https://godbolt.org/
+
+<hr>
 
 # Vim Coc 관리하기 <a href="https://github.com/YoungHaKim7/easyrust_training#link">[↑ Top ↑🔝]</a>
 
