@@ -18,7 +18,9 @@ https://www.reddit.com/r/rust/comments/2s4scj/2_3_n_dimensional_arrays/
 
 - https://stackoverflow.com/questions/37316336/is-rust-multi-dimensional-array-row-major-and-tightly-packed
 
+<hr>
 
+# Rust 공식eBook공부 
 
 - Closures
   - Capturing References or Moving Ownership
