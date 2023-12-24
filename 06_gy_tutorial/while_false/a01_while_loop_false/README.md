@@ -1,0 +1,6 @@
+# Result
+
+```
+
+condition was true
+```
