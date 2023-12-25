@@ -28,3 +28,6 @@ https://www.reddit.com/r/rust/comments/2s4scj/2_3_n_dimensional_arrays/
     - https://doc.rust-lang.org/std/iter/trait.Iterator.html#count.v
       - Iterators (and iterator adapters) are lazy. 
         - https://doc.rust-lang.org/std/iter/#laziness
+
+- Learn Rust programming - Standard Library, Enums, Traits, Arrays, Vectors, HashMaps | Caleb Curry
+  - https://youtu.be/XCUOvO1sqIE?si=v00Vok77qaJzwpwM
