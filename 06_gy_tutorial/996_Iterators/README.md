@@ -1,3 +1,7 @@
+# Rust By Example
+
+- https://doc.rust-lang.org/rust-by-example/error/iter_result.html
+
 # Iterators
 
 In Rust, iterators are lazy, 
