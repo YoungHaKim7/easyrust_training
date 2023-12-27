@@ -4,4 +4,6 @@
 
 ```
 
+$ cargo run --bin a01_rayon_mandelbrot
+
 ```

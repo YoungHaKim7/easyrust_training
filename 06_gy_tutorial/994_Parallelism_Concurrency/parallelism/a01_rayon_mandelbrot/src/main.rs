@@ -1,5 +1,6 @@
-use a01_rayon_mandelbrot::compute_iterations;
-use a01_rayon_mandelbrot::save_image;
+use bin::mandelbrot::{compute_iterations, save_image};
+
+mod bin;
 
 fn main() {
     let width: u32 = 900;

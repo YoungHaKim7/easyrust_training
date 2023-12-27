@@ -6,7 +6,11 @@ use rayon::{
     prelude::{IntoParallelIterator, ParallelIterator},
 };
 
-fn compute_iterations_mandelbrot(complex_x: f32, complex_y: f32, max_iterations: usize) -> usize {
+pub fn compute_iterations_mandelbrot(
+    complex_x: f32,
+    complex_y: f32,
+    max_iterations: usize,
+) -> usize {
     // Counts if the complex point c(cx, cy) diverges (it’s norm is > 2.0) in a finite
     // amount of time (the max amount of iterations)
     let c = num_complex::Complex::new(complex_x, complex_y);
