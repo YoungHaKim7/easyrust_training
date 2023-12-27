@@ -1,11 +1,11 @@
 # Result
 
 ```
-index0: 1
-index1: 2
-index2: 34
-index3: 5
-index4: 6
-index5: 8
+index[0] :  1
+index[1] :  2
+index[2] :  34
+index[3] :  5
+index[4] :  6
+index[5] :  8
 
 ```
