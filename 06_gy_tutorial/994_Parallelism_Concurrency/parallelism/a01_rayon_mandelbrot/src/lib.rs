@@ -1,6 +1,10 @@
-extern crate image;
-extern crate num_complex;
-use rayon::prelude::*;
+// extern crate image;
+// extern crate num_complex;
+use image::{ImageBuffer, Rgb};
+use rayon::{
+    self,
+    prelude::{IntoParallelIterator, ParallelIterator},
+};
 
 fn compute_iterations_mandelbrot(complex_x: f32, complex_y: f32, max_iterations: usize) -> usize {
     // Counts if the complex point c(cx, cy) diverges (it’s norm is > 2.0) in a finite
@@ -48,7 +52,7 @@ pub fn save_image(
     max_iterations: usize,
     path: &str,
 ) {
-    let mut imgbuf = image::ImageBuffer::new(width, height);
+    let mut imgbuf = ImageBuffer::new(width, height);
 
     for (x, y, pixel) in imgbuf.enumerate_pixels_mut() {
         let i = nb_iterations[(y * width + x) as usize];
@@ -57,7 +61,7 @@ pub fn save_image(
             (((max_iterations as f32 - i as f32) / (max_iterations as f32)) * 255f32) as u8;
         let (green, blue) = (red, red);
 
-        *pixel = image::Rgb([red as u8, green as u8, blue as u8]);
+        *pixel = Rgb([red as u8, green as u8, blue as u8]);
     }
 
     imgbuf.save(path).unwrap();
