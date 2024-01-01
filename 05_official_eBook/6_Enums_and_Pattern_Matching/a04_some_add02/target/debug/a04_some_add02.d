@@ -1,1 +1,0 @@
-/Users/globalyoung/Documents/test/test/rust/easyrust_training/05_official_eBook/6_Enums_and_Pattern_Matching/a04_some_add02/target/debug/a04_some_add02: /Users/globalyoung/Documents/test/test/rust/easyrust_training/05_official_eBook/6_Enums_and_Pattern_Matching/a04_some_add02/src/main.rs
