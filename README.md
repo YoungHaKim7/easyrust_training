@@ -10,7 +10,7 @@
 
 <hr>
 
-# <em><strong>유료버젼</em></strong> 🖥💰 Easy Rust Korean / Rust in a Month of Lunches
+# <em><strong>유료버젼</em></strong> 🖥💰 Easy Rust Korean / Rust in a Month of Lunches | Rust My Teacher스승님의 책
 
 - https://www.manning.com/books/learn-rust-in-a-month-of-lunches
 
@@ -22,7 +22,7 @@
 <h1>Updating</h1>
 
 2021-12-10 : Rust 기초 강의 시작<br>
-> #### Rust 스승님 Git
+> #### Rust My Teacher스승님 Git
 > - https://github.com/Dhghomon/easy_rust/
 > - 유튜브 주소(한글 강의)
 > - 1강
@@ -45,7 +45,7 @@
  
 <hr>
 
-## Rust Atomics (Easy rust_ mithradates)
+## Rust Atomics (Easy rust_ mithradates) Rust My Teacher스승님
 
 
 - Rust Atomics and Locks 같이 읽기(한국어 버젼 KR)
